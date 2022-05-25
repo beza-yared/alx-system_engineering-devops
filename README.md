@@ -1,1 +1,2 @@
-this is a class on bash or shell navi
+this is a class on bash or shell navi 
+
